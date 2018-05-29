@@ -1,2 +1,2 @@
 # gophercon
-Gophercon example project
+Gophercon example project for the "PRODUCTION-READY MICROSERVICES WITH GO AND KUBERNETES"
